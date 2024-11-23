@@ -127,7 +127,3 @@ This script provides a **baseline security configuration**. While it significant
 - **Always review the script** before executing it.
 - **Backup your data and configurations** beforehand.
 - This script is provided **"as is"** without any warranty or liability.
-
-## **License**
-
-This project is licensed under the **[MIT License](https://github.com/Skyspek/linux-server-hardening-post-install/blob/main/LICENSE)**. For more details, see the [`LICENSE`](https://github.com/Skyspek/linux-server-hardening-post-install/blob/main/LICENSE) file.
