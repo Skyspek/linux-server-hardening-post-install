@@ -130,4 +130,4 @@ This script provides a **baseline security configuration**. While it significant
 
 ## **License**
 
-This project is licensed under the **MIT License**. For more details, see the `LICENSE` file.
+This project is licensed under the **[MIT License](https://github.com/Skyspek/linux-server-hardening-post-install/blob/main/LICENSE)**. For more details, see the [`LICENSE`](https://github.com/Skyspek/linux-server-hardening-post-install/blob/main/LICENSE) file.
